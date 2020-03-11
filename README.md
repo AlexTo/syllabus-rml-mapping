@@ -1,0 +1,1 @@
+ java -jar rmlmapper-4.7.0-r150.jar -s turtle -m ./mappings/nesa.ttl -o ./output/nesa.ttl
