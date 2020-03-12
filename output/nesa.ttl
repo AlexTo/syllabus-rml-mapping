@@ -1,0 +1,310 @@
+@prefix asn: <http://purl.org/ASN/schema/core/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix det: <http://thesaurus.education.nsw.gov.au/> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+det:09a2e0cd-dfe8-4d0b-b65e-90f147fb46d0 a det:ContentGroup;
+  asn:altStatementNotation "747"@en-au;
+  rdfs:label "Single Variable Data Analysis §"@en-au .
+
+det:0d950845-77c0-4cd4-95cc-5924b9d66f9b a det:ContentGroup;
+  asn:altStatementNotation "788"@en-au;
+  rdfs:label "Financial Mathematics"@en-au .
+
+det:15ec7a10-aa93-4995-ba6a-55ccdfe49db8 a det:ContentGroup;
+  asn:altStatementNotation "773"@en-au;
+  rdfs:label "Right-Angled Triangles (Trigonometry)"@en-au .
+
+det:28678c36-4656-4261-9d88-b6e8b52badf2 a det:ContentGroup;
+  asn:altStatementNotation "782"@en-au;
+  rdfs:label "Ratios and Rates"@en-au .
+
+det:3a9cc8d6-146e-4eba-8665-0b1bd5f42049 a det:ContentGroup;
+  asn:altStatementNotation "1102"@en-au;
+  rdfs:label "Whole Numbers"@en-au .
+
+det:3c811a96-e3e7-4a4f-81a4-a19dfe68e0d8 a det:ContentGroup;
+  asn:altStatementNotation "1092"@en-au;
+  rdfs:label "Money"@en-au .
+
+det:3d2c85d1-2ea1-4214-9a56-6ed9335d6e98 a det:ContentGroup;
+  asn:altStatementNotation "790"@en-au;
+  rdfs:label "Linear Relationships"@en-au .
+
+det:42ee3a9c-73a1-4a65-b899-080467d29366 a det:ContentGroup;
+  asn:altStatementNotation "1094"@en-au;
+  rdfs:label "Time"@en-au .
+
+det:43ea8838-3483-4ff2-9f71-ff67899aaabf a det:Stage;
+  asn:altStatementNotation "1"@en-au;
+  det:contentGroup det:44831560-f0d5-44cc-aaeb-1147b3de37b6, det:4bd1e9ed-1ee1-4345-81c8-dc585ce72f15,
+    det:54da2781-2ccf-488d-9e97-75ff7d0cdf17, det:61d86320-6d4d-4ac0-8d19-f62ab1dbe26e,
+    det:669c08e6-6f74-44d3-bd65-2ece4e814492, det:70a25516-d324-4f84-a1a2-68be8928262d,
+    det:92cc35cb-7939-403c-8953-37d5d0cf20ee, det:a37bca78-15af-42fe-818b-3c6235d83f42,
+    det:a554da87-f60e-4fd7-a8af-f04193c09be9, det:acbc5bda-500d-4890-b13d-3800634a541c,
+    det:b49b51b8-5847-49a3-89cc-dc0fbb2ea403, det:c151312a-2800-46fe-aa5e-295f19368d6e,
+    det:c9be4edc-f527-4abe-ae46-57004edc4484, det:d9d15e05-fffd-455c-9c6b-76d110d09d11;
+  rdfs:label "Early Stage 1"@en-au .
+
+det:44831560-f0d5-44cc-aaeb-1147b3de37b6 a det:ContentGroup;
+  asn:altStatementNotation "693"@en-au;
+  rdfs:label "Time"@en-au .
+
+det:45958f7c-56f4-4451-9dce-c3027e121b00 a det:ContentGroup;
+  asn:altStatementNotation "769"@en-au;
+  rdfs:label "Properties of Geometrical Figures §"@en-au .
+
+det:45fe274c-950c-4f7b-a62e-b9c028669993 a det:Stage;
+  asn:altStatementNotation "4"@en-au;
+  det:contentGroup det:3a9cc8d6-146e-4eba-8665-0b1bd5f42049;
+  rdfs:label "Stage 3"@en-au .
+
+det:4bd1e9ed-1ee1-4345-81c8-dc585ce72f15 a det:ContentGroup;
+  asn:altStatementNotation "695"@en-au;
+  rdfs:label "Two-Dimensional Space"@en-au .
+
+det:53346db0-1554-4f88-99fe-f047c6c24480 a det:ContentGroup;
+  asn:altStatementNotation "766"@en-au;
+  rdfs:label "Area and Surface Area"@en-au .
+
+det:54b00299-8f64-430b-aee4-6cd39924bc18 a det:ContentGroup;
+  asn:altStatementNotation "771"@en-au;
+  rdfs:label "Area and Surface Area"@en-au .
+
+det:54da2781-2ccf-488d-9e97-75ff7d0cdf17 a det:ContentGroup;
+  asn:altStatementNotation "696"@en-au;
+  rdfs:label "Position"@en-au .
+
+det:59270507-84cc-4f71-a781-d475ad24f284 a det:ContentGroup;
+  asn:altStatementNotation "770"@en-au;
+  rdfs:label "Circle Geometry #"@en-au .
+
+det:60fa1e56-8ba6-403e-a09d-d2a6a7e0a8a5 a det:ContentGroup;
+  asn:altStatementNotation "1120"@en-au;
+  rdfs:label "Whole Numbers"@en-au .
+
+det:61d86320-6d4d-4ac0-8d19-f62ab1dbe26e a det:ContentGroup;
+  asn:altStatementNotation "650"@en-au;
+  rdfs:label "Fractions and Decimals"@en-au .
+
+det:63839d8c-dbaf-46ac-9316-b52dd6c5e0f7 a det:ContentGroup;
+  asn:altStatementNotation "1014"@en-au;
+  rdfs:label "Ratios and Rates"@en-au .
+
+det:656bf964-5b6f-42c7-9aa0-bd24d153ec3e a det:ContentGroup;
+  asn:altStatementNotation "1105"@en-au;
+  rdfs:label "Whole Numbers"@en-au .
+
+det:669c08e6-6f74-44d3-bd65-2ece4e814492 a det:ContentGroup;
+  asn:altStatementNotation "684"@en-au;
+  rdfs:label "Patterns and Algebra"@en-au .
+
+det:67039242-eb26-4bda-8e44-c41dfe8838e9 a det:Stage;
+  asn:altStatementNotation "10"@en-au;
+  det:contentGroup det:b6cef8c9-40b8-4ab9-baff-fb00ad02f686;
+  rdfs:label "Life Skills"@en-au .
+
+det:6c4e36bf-13b4-4443-9456-b142e78ff2dc a det:ContentGroup;
+  asn:altStatementNotation "781"@en-au;
+  rdfs:label "Financial Mathematics"@en-au .
+
+det:6ca9cabb-910b-4e07-89b4-c8b0e8e1c1b1 a det:ContentGroup;
+  asn:altStatementNotation "1021"@en-au;
+  rdfs:label "Logarithms #"@en-au .
+
+det:70a25516-d324-4f84-a1a2-68be8928262d a det:ContentGroup;
+  asn:altStatementNotation "694"@en-au;
+  rdfs:label "Three-Dimensional Space"@en-au .
+
+det:73e03ddb-c04e-44ff-a6f8-edb1b6324f5f a det:ContentGroup;
+  asn:altStatementNotation "1019"@en-au;
+  rdfs:label "Non-Linear Relationships §"@en-au .
+
+det:743b353a-6a30-4551-a533-4a9228da6d95 a det:Objective;
+  asn:altStatementNotation "15"@en-au;
+  rdfs:label "develop understanding and fluency in mathematics through inquiry, exploring and connecting mathematical concepts, choosing and applying problem-solving skills and mathematical techniques, communication and reasoning"@en-au .
+
+det:75fb1be6-3a45-46a6-9c9b-c5ad0ff1e459 a det:Stage;
+  asn:altStatementNotation "8"@en-au;
+  det:contentGroup det:42ee3a9c-73a1-4a65-b899-080467d29366, det:f92085ec-edfe-4b13-bcea-8f4316693aae;
+  rdfs:label "Stage 5.2"@en-au .
+
+det:7ea0f90a-b46e-428d-b910-9f45bf31de55 a det:Stage;
+  asn:altStatementNotation "3"@en-au;
+  det:contentGroup det:60fa1e56-8ba6-403e-a09d-d2a6a7e0a8a5;
+  rdfs:label "Stage 2"@en-au .
+
+det:9201a07b-3feb-4b49-b6f2-ad5d13156635 a det:ContentGroup;
+  asn:altStatementNotation "772"@en-au;
+  rdfs:label "Numbers of Any Magnitude"@en-au .
+
+det:92cc35cb-7939-403c-8953-37d5d0cf20ee a det:ContentGroup;
+  asn:altStatementNotation "634"@en-au;
+  rdfs:label "Data"@en-au .
+
+det:990d6a93-4969-47a5-b07e-f66280e2a394 a det:ContentGroup;
+  asn:altStatementNotation "1015"@en-au;
+  rdfs:label "Algebraic Techniques §"@en-au .
+
+det:a2d08bd0-d256-4d02-a651-908161637d3c a det:ContentGroup;
+  asn:altStatementNotation "767"@en-au;
+  rdfs:label "Volume"@en-au .
+
+det:a37bca78-15af-42fe-818b-3c6235d83f42 a det:ContentGroup;
+  asn:altStatementNotation "689"@en-au;
+  rdfs:label "Length"@en-au .
+
+det:a4e4df14-ecde-419e-ace0-3b35a06361ee a det:ContentGroup;
+  asn:altStatementNotation "774"@en-au;
+  rdfs:label "Properties of Geometrical Figures"@en-au .
+
+det:a554da87-f60e-4fd7-a8af-f04193c09be9 a det:ContentGroup;
+  asn:altStatementNotation "690"@en-au;
+  rdfs:label "Area"@en-au .
+
+det:a8ea2f2f-501a-4937-a0ed-e9432489d5b4 a det:ContentGroup;
+  asn:altStatementNotation "780"@en-au;
+  rdfs:label "Fractions, Decimals and Percentages"@en-au .
+
+det:a9ae84ce-908c-4f75-a67f-c76dcf576dd1 a det:Objective;
+  asn:altStatementNotation "18"@en-au;
+  rdfs:label "collect, represent, analyse, interpret and evaluate data, assign and use probabilities, and make sound judgements"@en-au .
+
+det:acbc5bda-500d-4890-b13d-3800634a541c a det:ContentGroup;
+  asn:altStatementNotation "692"@en-au;
+  rdfs:label "Mass"@en-au .
+
+det:b49b51b8-5847-49a3-89cc-dc0fbb2ea403 a det:ContentGroup;
+  asn:altStatementNotation "647"@en-au;
+  rdfs:label "Whole Numbers"@en-au .
+
+det:b6485993-ac37-4093-adf1-8646346b4728 a det:ContentGroup;
+  asn:altStatementNotation "768"@en-au;
+  rdfs:label "Trigonometry and Pythagoras' Theorem §"@en-au .
+
+det:b6cef8c9-40b8-4ab9-baff-fb00ad02f686 a det:ContentGroup;
+  asn:altStatementNotation "1090"@en-au;
+  rdfs:label "Numeration"@en-au .
+
+det:b88a6f2d-c084-4784-a407-218c8836c770 a det:ContentGroup;
+  asn:altStatementNotation "1018"@en-au;
+  rdfs:label "Linear Relationships §"@en-au .
+
+det:bb78bb96-6c33-449a-8183-5ce84cc9d616 a det:Stage, det:Syllabus;
+  asn:altStatementNotation "2"@en-au;
+  det:contentGroup det:656bf964-5b6f-42c7-9aa0-bd24d153ec3e;
+  det:objective det:743b353a-6a30-4551-a533-4a9228da6d95, det:a9ae84ce-908c-4f75-a67f-c76dcf576dd1,
+    det:c183b88f-dddd-465f-81ee-fa789d15132e, det:d369d2ae-8069-4386-b6d6-5eae3450b1c0;
+  det:stage det:43ea8838-3483-4ff2-9f71-ff67899aaabf, det:45fe274c-950c-4f7b-a62e-b9c028669993,
+    det:67039242-eb26-4bda-8e44-c41dfe8838e9, det:75fb1be6-3a45-46a6-9c9b-c5ad0ff1e459,
+    det:7ea0f90a-b46e-428d-b910-9f45bf31de55, det:bb78bb96-6c33-449a-8183-5ce84cc9d616,
+    det:cd049216-3bfe-47ac-9a63-ba076ee7c5f4, det:e709036c-8f8a-40ac-a6b6-b02a42d8c16e,
+    det:e9a5f0a5-9551-4e3b-a820-0c249f151fee;
+  rdfs:label "Mathematics K–10"@en-au, "Stage 1"@en-au .
+
+det:bc8e2b3f-b5e4-4965-8be9-f788f0bd3148 a det:ContentGroup;
+  asn:altStatementNotation "748"@en-au;
+  rdfs:label "Bivariate Data Analysis"@en-au .
+
+det:bf2e0768-a2bd-441d-8ffa-e6a905b73e77 a det:ContentGroup;
+  asn:altStatementNotation "791"@en-au;
+  rdfs:label "Non-Linear Relationships"@en-au .
+
+det:bfff8624-abf0-407d-ad4c-23cb47366758 a det:ContentGroup;
+  asn:altStatementNotation "1020"@en-au;
+  rdfs:label "Polynomials #"@en-au .
+
+det:c151312a-2800-46fe-aa5e-295f19368d6e a det:ContentGroup;
+  asn:altStatementNotation "691"@en-au;
+  rdfs:label "Volume and Capacity"@en-au .
+
+det:c183b88f-dddd-465f-81ee-fa789d15132e a det:Objective;
+  asn:altStatementNotation "16"@en-au;
+  rdfs:label "develop efficient strategies for numerical calculation, recognise patterns, describe relationships and apply algebraic techniques and generalisation"@en-au .
+
+det:c9be4edc-f527-4abe-ae46-57004edc4484 a det:ContentGroup;
+  asn:altStatementNotation "648"@en-au;
+  rdfs:label "Addition and Subtraction"@en-au .
+
+det:cc477866-8a01-4db8-aa26-2ef93c6096b9 a det:ContentGroup;
+  asn:altStatementNotation "1022"@en-au;
+  rdfs:label "Functions and Other Graphs #"@en-au .
+
+det:cd049216-3bfe-47ac-9a63-ba076ee7c5f4 a det:Stage;
+  asn:altStatementNotation "5"@en-au;
+  det:contentGroup det:28678c36-4656-4261-9d88-b6e8b52badf2, det:6c4e36bf-13b4-4443-9456-b142e78ff2dc,
+    det:a8ea2f2f-501a-4937-a0ed-e9432489d5b4, det:da4dc498-5bef-4ee8-b993-c2894491c799,
+    det:ff00b30b-d457-4e8b-a37e-4e82e2b22c8b;
+  rdfs:label "Stage 4"@en-au .
+
+det:d369d2ae-8069-4386-b6d6-5eae3450b1c0 a det:Objective;
+  asn:altStatementNotation "17"@en-au;
+  rdfs:label "identify, visualise and quantify measures and the attributes of shapes and objects, and explore measurement concepts and geometric relationships, applying formulas, strategies and geometric reasoning in the solution of problems"@en-au .
+
+det:d9d15e05-fffd-455c-9c6b-76d110d09d11 a det:ContentGroup;
+  asn:altStatementNotation "649"@en-au;
+  rdfs:label "Multiplication and Division"@en-au .
+
+det:da4dc498-5bef-4ee8-b993-c2894491c799 a det:ContentGroup;
+  asn:altStatementNotation "779"@en-au;
+  rdfs:label "Computation with Integers"@en-au .
+
+det:da69a540-ba67-4911-ae4a-0f9b9695cb8f a det:ContentGroup;
+  asn:altStatementNotation "789"@en-au;
+  rdfs:label "Indices"@en-au .
+
+det:db6e99d2-29cb-468b-b517-4ca7df92872b a det:ContentGroup;
+  asn:altStatementNotation "746"@en-au;
+  rdfs:label "Probability"@en-au .
+
+det:e2f0cc6f-f5f4-4e3e-9fee-6902ea96ac28 a det:ContentGroup;
+  asn:altStatementNotation "1016"@en-au;
+  rdfs:label "Surds and Indices §"@en-au .
+
+det:e709036c-8f8a-40ac-a6b6-b02a42d8c16e a det:Stage;
+  asn:altStatementNotation "7"@en-au;
+  det:contentGroup det:0d950845-77c0-4cd4-95cc-5924b9d66f9b, det:15ec7a10-aa93-4995-ba6a-55ccdfe49db8,
+    det:3c811a96-e3e7-4a4f-81a4-a19dfe68e0d8, det:3d2c85d1-2ea1-4214-9a56-6ed9335d6e98,
+    det:54b00299-8f64-430b-aee4-6cd39924bc18, det:9201a07b-3feb-4b49-b6f2-ad5d13156635,
+    det:a4e4df14-ecde-419e-ace0-3b35a06361ee, det:bf2e0768-a2bd-441d-8ffa-e6a905b73e77,
+    det:da69a540-ba67-4911-ae4a-0f9b9695cb8f, det:db6e99d2-29cb-468b-b517-4ca7df92872b,
+    det:edc79d7a-4c07-4de1-88d6-8c4507bc929f;
+  rdfs:label "Stage 5.1"@en-au .
+
+det:e9a5f0a5-9551-4e3b-a820-0c249f151fee a det:Stage;
+  asn:altStatementNotation "9"@en-au;
+  det:contentGroup det:09a2e0cd-dfe8-4d0b-b65e-90f147fb46d0, det:45958f7c-56f4-4451-9dce-c3027e121b00,
+    det:53346db0-1554-4f88-99fe-f047c6c24480, det:59270507-84cc-4f71-a781-d475ad24f284,
+    det:63839d8c-dbaf-46ac-9316-b52dd6c5e0f7, det:6ca9cabb-910b-4e07-89b4-c8b0e8e1c1b1,
+    det:73e03ddb-c04e-44ff-a6f8-edb1b6324f5f, det:990d6a93-4969-47a5-b07e-f66280e2a394,
+    det:a2d08bd0-d256-4d02-a651-908161637d3c, det:b6485993-ac37-4093-adf1-8646346b4728,
+    det:b88a6f2d-c084-4784-a407-218c8836c770, det:bc8e2b3f-b5e4-4965-8be9-f788f0bd3148,
+    det:bfff8624-abf0-407d-ad4c-23cb47366758, det:cc477866-8a01-4db8-aa26-2ef93c6096b9,
+    det:e2f0cc6f-f5f4-4e3e-9fee-6902ea96ac28, det:fd872cb4-2219-4496-9636-d10c01e01739;
+  rdfs:label "Stage 5.3"@en-au .
+
+det:edc79d7a-4c07-4de1-88d6-8c4507bc929f a det:ContentGroup;
+  asn:altStatementNotation "745"@en-au;
+  rdfs:label "Single Variable Data Analysis"@en-au .
+
+det:f92085ec-edfe-4b13-bcea-8f4316693aae a det:ContentGroup;
+  asn:altStatementNotation "756"@en-au;
+  rdfs:label "Time"@en-au .
+
+det:fce69cc9-d01a-463f-9ab9-eb685f6ca1df a det:KLA;
+  det:syllabus det:bb78bb96-6c33-449a-8183-5ce84cc9d616;
+  rdfs:label "Mathematics"@en-au .
+
+det:fd872cb4-2219-4496-9636-d10c01e01739 a det:ContentGroup;
+  asn:altStatementNotation "1017"@en-au;
+  rdfs:label "Equations §"@en-au .
+
+det:ff00b30b-d457-4e8b-a37e-4e82e2b22c8b a det:ContentGroup;
+  asn:altStatementNotation "1149"@en-au;
+  rdfs:label "Algebraic Techniques"@en-au .
