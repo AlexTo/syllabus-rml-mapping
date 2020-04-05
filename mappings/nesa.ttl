@@ -30,6 +30,15 @@
   ];
 
   rr:predicateObjectMap [
+      rr:predicate asn:altStatementNotation;
+      rr:objectMap [
+        rml:reference "asn_altStatementNotation.literal";
+  	    rr:language "en-au" ]
+  ];
+
+
+
+  rr:predicateObjectMap [
     rr:predicate det:syllabus;
     rr:objectMap [
       rr:template "http://thesaurus.education.nsw.gov.au/{children.*.id}"
@@ -60,6 +69,30 @@
     rr:objectMap [
       rml:reference "asn_altStatementNotation.literal";
 	    rr:language "en-au"
+    ]
+  ];
+
+  rr:predicateObjectMap [
+    rr:predicate asn:authorityStatus;
+    rr:objectMap [
+      rml:reference "asn_authorityStatus.uri";
+	    rr:termType rr:IRI
+    ]
+  ];
+
+  rr:predicateObjectMap [
+    rr:predicate asn:indexingStatus;
+    rr:objectMap [
+      rml:reference "asn_indexingStatus.uri";
+      rr:termType rr:IRI
+    ]
+  ];
+
+  rr:predicateObjectMap [
+    rr:predicate asn:indexingStatus;
+    rr:objectMap [
+      rml:reference "asn_statementLabel.uri";
+      rr:termType rr:IRI
     ]
   ];
 
@@ -102,7 +135,14 @@
       rml:reference "asn_altStatementNotation.literal";
 	    rr:language "en-au"
     ]
-  ] .
+  ];
+
+  rr:predicateObjectMap [
+    rr:predicate det:outcome;
+    rr:objectMap [
+      rr:template "http://thesaurus.education.nsw.gov.au/{children.*.id}"
+    ]
+  ].
 
 <det:StageMapping> a rr:TriplesMap;
   rml:logicalSource [
@@ -148,6 +188,33 @@
   rr:subjectMap [
     rr:template "http://thesaurus.education.nsw.gov.au/{id}";
     rr:class det:ContentGroup
+  ];
+
+  rr:predicateObjectMap [
+    rr:predicate rdfs:label;
+    rr:objectMap [
+      rml:reference "text";
+	    rr:language "en-au" ]
+  ];
+
+  rr:predicateObjectMap [
+    rr:predicate asn:altStatementNotation;
+    rr:objectMap [
+      rml:reference "asn_altStatementNotation.literal";
+	    rr:language "en-au"
+    ]
+  ].
+
+<det:OutcomeMapping> a rr:TriplesMap;
+  rml:logicalSource [
+    rml:source "./data/nesa.json";
+    rml:referenceFormulation ql:JSONPath;
+    rml:iterator "$.children.*.objectives.*.children.*"
+  ];
+
+  rr:subjectMap [
+    rr:template "http://thesaurus.education.nsw.gov.au/{id}";
+    rr:class det:Outcome
   ];
 
   rr:predicateObjectMap [

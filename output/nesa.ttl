@@ -9,37 +9,261 @@
 @prefix rr: <http://www.w3.org/ns/r2rml#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
+det:001b2d41-ca4a-4d8a-a82b-c7d6e6f9d8c8 a det:Outcome;
+  asn:altStatementNotation "326"@en-au;
+  rdfs:label "<p>orders, reads and represents integers of any size and describes properties of whole numbers</p>"@en-au .
+
+det:013de7fc-f966-4916-bc04-8f42ac5fb0aa a det:Outcome;
+  asn:altStatementNotation "485"@en-au;
+  rdfs:label "<p>plans and manages personal finances</p>"@en-au .
+
+det:03ae980f-7083-4acb-a35a-f2f9dc0d2b2f a det:Outcome;
+  asn:altStatementNotation "322"@en-au;
+  rdfs:label "<p>describes and compares chance events in social and experimental contexts</p>"@en-au .
+
+det:06b4b99e-e21c-4aa7-92ed-29078224fa16 a det:Outcome;
+  asn:altStatementNotation "296"@en-au;
+  rdfs:label "<p>gives a valid reason for supporting one possible solution over another</p>"@en-au .
+
+det:0764a517-cb13-4933-bda5-08e3b89accad a det:Outcome;
+  asn:altStatementNotation "491"@en-au;
+  rdfs:label "<p>calculates and measures time and duration in everyday contexts</p>"@en-au .
+
+det:0800392a-4ad1-4e38-8eda-0c1b7ca5e507 a det:Outcome;
+  asn:altStatementNotation "321"@en-au;
+  rdfs:label "<p>uses mental and informal written strategies for multiplication and division</p>"@en-au .
+
+det:08c72ed5-3886-4138-a004-9e0833a47c7e a det:Outcome;
+  asn:altStatementNotation "400"@en-au;
+  rdfs:label "<p>simplifies algebraic fractions, and expands and factorises quadratic expressions</p>"@en-au .
+
+det:08f5c2a8-43cd-4b64-b78d-3f9136dc4a36 a det:Outcome;
+  asn:altStatementNotation "488"@en-au;
+  rdfs:label "<p>recognises time in familiar contexts</p>"@en-au .
+
 det:09a2e0cd-dfe8-4d0b-b65e-90f147fb46d0 a det:ContentGroup;
   asn:altStatementNotation "747"@en-au;
   rdfs:label "Single Variable Data Analysis §"@en-au .
+
+det:09f86600-e6fb-414e-95d3-2bb152c3e1cf a det:Outcome;
+  asn:altStatementNotation "405"@en-au;
+  rdfs:label "<p>operates with ratios and rates, and explores their graphical representation</p>"@en-au .
+
+det:0b0e3722-4fdb-48dd-b191-fcb049f57af4 a det:Outcome;
+  asn:altStatementNotation "480"@en-au;
+  rdfs:label "<p>selects and uses strategies for addition and subtraction</p>"@en-au .
+
+det:0b10b681-1a33-4bb2-928e-5a0923ed9458 a det:Outcome;
+  asn:altStatementNotation "411"@en-au;
+  rdfs:label "<p>proves triangles are similar, and uses formal geometric reasoning to establish properties of triangles and quadrilaterals</p>"@en-au .
+
+det:0d2d320b-de9e-4c50-b6ef-e75be41c6b61 a det:Outcome;
+  asn:altStatementNotation "331"@en-au;
+  rdfs:label "<p>compares, orders and calculates with fractions, decimals and percentages</p>"@en-au .
 
 det:0d950845-77c0-4cd4-95cc-5924b9d66f9b a det:ContentGroup;
   asn:altStatementNotation "788"@en-au;
   rdfs:label "Financial Mathematics"@en-au .
 
+det:0dc5d705-dc9c-4563-bc8c-74c604d531a2 a det:Outcome;
+  asn:altStatementNotation "306"@en-au;
+  rdfs:label "<p>applies place value, informally, to count, order, read and represent two- and three-digit numbers</p>"@en-au .
+
+det:0f5ebfa0-a85a-49d5-b706-394d264b4dd2 a det:Outcome;
+  asn:altStatementNotation "353"@en-au;
+  rdfs:label "<p>recognises and explains mathematical relationships using reasoning</p>"@en-au .
+
+det:108c21df-d694-458c-a40f-3c8fbd73a150 a det:Outcome;
+  asn:altStatementNotation "375"@en-au;
+  rdfs:label "<p>solves financial problems involving compound interest</p>"@en-au .
+
+det:10bba806-054e-4077-be4e-4823d081def2 a det:Outcome;
+  asn:altStatementNotation "293"@en-au;
+  rdfs:label "<p>collects, represents and interprets single sets of data, using appropriate statistical displays</p>"@en-au .
+
+det:1251ec97-88ee-41df-ac75-f6a2afc4e8ab a det:Outcome;
+  asn:altStatementNotation "354"@en-au;
+  rdfs:label "<p>measures, records, compares and estimates volumes and capacities using uniform informal units</p>"@en-au .
+
+det:1262d1a1-987f-41f7-9df0-08e8ad9f2c71 a det:Outcome;
+  asn:altStatementNotation "478"@en-au;
+  rdfs:label "<p>recognises and compares fractions in everyday contexts</p>"@en-au .
+
+det:136769be-05c4-48b1-a9f7-3f94928f2dd6 a det:Outcome;
+  asn:altStatementNotation "404"@en-au;
+  rdfs:label "<p>calculates the angle sum of any polygon and uses minimum conditions to prove triangles are congruent or similar</p>"@en-au .
+
+det:1565b0d3-410e-4e64-9283-ba9937cc3d25 a det:Outcome;
+  asn:altStatementNotation "361"@en-au;
+  rdfs:label "<p>sorts, describes, represents and recognises familiar three-dimensional objects, including cones, cubes, cylinders, spheres and prisms</p>"@en-au .
+
 det:15ec7a10-aa93-4995-ba6a-55ccdfe49db8 a det:ContentGroup;
   asn:altStatementNotation "773"@en-au;
   rdfs:label "Right-Angled Triangles (Trigonometry)"@en-au .
+
+det:16f717de-bba6-46fd-9d4c-c970462a394d a det:Outcome;
+  asn:altStatementNotation "423"@en-au;
+  rdfs:label "<p>creates and displays number patterns; graphs and analyses linear relationships; and performs transformations on the Cartesian plane</p>"@en-au .
+
+det:174e4f40-8c7b-412a-91c6-aa64e6c9bcaf a det:Outcome;
+  asn:altStatementNotation "298"@en-au;
+  rdfs:label "<p>combines, separates and compares collections of objects, describes using everyday language, and records using informal methods test</p>"@en-au .
+
+det:18de15f4-4b9d-4767-93c2-1fa7fe73e60f a det:Outcome;
+  asn:altStatementNotation "494"@en-au;
+  rdfs:label "<p>recognises and uses units to estimate and measure length</p>"@en-au .
+
+det:196d7cb9-5858-4b3c-bc7b-1a4bdfefa6f5 a det:Outcome;
+  asn:altStatementNotation "487"@en-au;
+  rdfs:label "<p>calculates missing values by completing simple number sentences</p>"@en-au .
+
+det:1bdaa1f4-8e1c-43c1-8cf2-dd334f167097 a det:Outcome;
+  asn:altStatementNotation "505"@en-au;
+  rdfs:label "<p>interprets information and draws conclusions from data displays</p>"@en-au .
+
+det:1e2c30da-3594-40ec-b8dd-5060abe3b02e a det:Outcome;
+  asn:altStatementNotation "481"@en-au;
+  rdfs:label "<p>selects and uses strategies for multiplication and division</p>"@en-au .
+
+det:1e58e3c4-a855-431d-bc91-76b5c216b7f9 a det:Outcome;
+  asn:altStatementNotation "302"@en-au;
+  rdfs:label "<p>represents data and interprets data displays made from objects</p>"@en-au .
+
+det:1efcac6b-f0f5-41d9-9a6f-2a1d5ee063f1 a det:Outcome;
+  asn:altStatementNotation "402"@en-au;
+  rdfs:label "<p>performs operations with surds and indices</p>"@en-au .
+
+det:1fc4d46b-a922-446c-ad18-e5490a9056bd a det:Outcome;
+  asn:altStatementNotation "341"@en-au;
+  rdfs:label "<p>applies appropriate mathematical techniques to solve problems</p>"@en-au .
+
+det:2087d7ae-f60a-405c-ace5-2d7313eaead0 a det:Outcome;
+  asn:altStatementNotation "424"@en-au;
+  rdfs:label "<p>uses the definition of a logarithm to establish and apply the laws of logarithms</p>"@en-au .
+
+det:21fddc83-f23a-4e4f-bf72-9b752f029c17 a det:Outcome;
+  asn:altStatementNotation "342"@en-au;
+  rdfs:label "<p>sequences events, uses everyday language to describe the durations of events, and reads hour time on clocks</p>"@en-au .
+
+det:22031455-8a91-45b7-97f6-18cd8a661160 a det:Outcome;
+  asn:altStatementNotation "389"@en-au;
+  rdfs:label "<p>selects and applies appropriate algebraic techniques to operate with algebraic expressions</p>"@en-au .
+
+det:244a5693-f254-47cf-9e8f-88cbf8b7735c a det:Outcome;
+  asn:altStatementNotation "425"@en-au;
+  rdfs:label "<p>uses function notation to describe and sketch functions</p>"@en-au .
+
+det:24c44d2f-d09e-4a17-ac22-e2c41957ca43 a det:Outcome;
+  asn:altStatementNotation "314"@en-au;
+  rdfs:label "<p>uses standard deviation to analyse data</p>"@en-au .
+
+det:25259cbd-f1b1-4987-80e5-af10f440fa43 a det:Outcome;
+  asn:altStatementNotation "415"@en-au;
+  rdfs:label "<p>solves linear and simple quadratic equations, linear inequalities and linear simultaneous equations, using analytical and graphical techniques</p>"@en-au .
+
+det:26599974-6055-4f8e-97f2-98f41e3c0870 a det:Outcome;
+  asn:altStatementNotation "387"@en-au;
+  rdfs:label "<p>selects and uses the appropriate unit to calculate areas, including areas of squares, rectangles and triangles</p>"@en-au .
 
 det:28678c36-4656-4261-9d88-b6e8b52badf2 a det:ContentGroup;
   asn:altStatementNotation "782"@en-au;
   rdfs:label "Ratios and Rates"@en-au .
 
+det:286f6b8e-bacd-4f61-b8c7-751aaf0cb796 a det:Outcome;
+  asn:altStatementNotation "330"@en-au;
+  rdfs:label "<p>calculates relative frequencies to estimate probabilities of simple and compound events</p>"@en-au .
+
+det:28ddded8-cd9d-459e-a9b9-84498e5bbdc7 a det:Outcome;
+  asn:altStatementNotation "317"@en-au;
+  rdfs:label "<p>applies place value to order, read and represent numbers of up to five digits</p>"@en-au .
+
+det:2bdeb9fa-781d-4c6b-ad48-97c77f602e74 a det:Outcome;
+  asn:altStatementNotation "286"@en-au;
+  rdfs:label "<p>uses objects, diagrams and technology to explore mathematical problems</p>"@en-au .
+
+det:2d4d520f-acce-4636-bf09-d4c51f1f107d a det:Outcome;
+  asn:altStatementNotation "395"@en-au;
+  rdfs:label "<p>manipulates, classifies and draws two-dimensional shapes, including equilateral, isosceles and scalene triangles, and describes their properties</p>"@en-au .
+
+det:2ec8fe67-974c-4d6c-8e2a-8b465fba1b02 a det:Outcome;
+  asn:altStatementNotation "479"@en-au;
+  rdfs:label "<p>represents and operates with fractions, decimals or percentages in everyday contexts</p>"@en-au .
+
+det:2fc75f53-acb4-4582-898d-175123ed6f15 a det:Outcome;
+  asn:altStatementNotation "486"@en-au;
+  rdfs:label "<p>recognises and continues repeating patterns</p>"@en-au .
+
+det:306b7ae8-58cf-4c78-88d7-722ad3c01768 a det:Outcome;
+  asn:altStatementNotation "312"@en-au;
+  rdfs:label "<p>selects appropriate methods to collect data, and constructs, compares, interprets and evaluates data displays, including tables, picture graphs and column graphs</p>"@en-au .
+
+det:3146828d-5ed0-4d90-80cb-9d865f8485da a det:Outcome;
+  asn:altStatementNotation "303"@en-au;
+  rdfs:label "<p>describes two equal parts as halves</p>"@en-au .
+
+det:3389a3f1-b09d-4ebf-9db6-4d5881d36c37 a det:Outcome;
+  asn:altStatementNotation "366"@en-au;
+  rdfs:label "<p>measures, records, compares and estimates lengths, distances and perimeters in metres, centimetres and millimetres, and measures, compares and records temperatures</p>"@en-au .
+
+det:3406393e-a58f-4340-8078-7ef825a77c2a a det:Outcome;
+  asn:altStatementNotation "483"@en-au;
+  rdfs:label "<p>reads and writes amounts of money</p>"@en-au .
+
+det:3554715e-e3c9-45fe-85ba-3b6a313701ce a det:Outcome;
+  asn:altStatementNotation "350"@en-au;
+  rdfs:label "<p>measures, records, compares and estimates lengths and distances using uniform informal units, metres and centimetres</p>"@en-au .
+
+det:35da54f5-9862-4681-8dba-22998c71b435 a det:Outcome;
+  asn:altStatementNotation "390"@en-au;
+  rdfs:label "<p>selects and uses the appropriate unit and device to measure the masses of objects, and converts between units of mass</p>"@en-au .
+
+det:39a84ec2-1edd-4a1f-8551-3015212eec45 a det:Outcome;
+  asn:altStatementNotation "285"@en-au;
+  rdfs:label "<p>describes mathematical situations and methods using everyday and some mathematical language, actions, materials, diagrams and symbols</p>"@en-au .
+
+det:3a99e3ae-3610-4158-90ee-ff8bf982ef90 a det:Outcome;
+  asn:altStatementNotation "349"@en-au;
+  rdfs:label "<p>describes position and gives and follows simple directions using everyday language</p>"@en-au .
+
 det:3a9cc8d6-146e-4eba-8665-0b1bd5f42049 a det:ContentGroup;
   asn:altStatementNotation "1102"@en-au;
   rdfs:label "Whole Numbers"@en-au .
+
+det:3b07faf9-ceff-4ce9-a606-6663392da662 a det:Outcome;
+  asn:altStatementNotation "316"@en-au;
+  rdfs:label "<p>uses appropriate methods to collect data and constructs, interprets and evaluates data displays, including dot plots, line graphs and two-way tables</p>"@en-au .
+
+det:3b22c57b-d169-4bce-b48b-819f68513053 a det:Outcome;
+  asn:altStatementNotation "294"@en-au;
+  rdfs:label "<p>selects and applies appropriate problem-solving strategies, including the use of digital technologies, in undertaking investigations</p>"@en-au .
 
 det:3c811a96-e3e7-4a4f-81a4-a19dfe68e0d8 a det:ContentGroup;
   asn:altStatementNotation "1092"@en-au;
   rdfs:label "Money"@en-au .
 
+det:3d26b8e8-5cc3-46bb-ad60-fcb711955a1f a det:Outcome;
+  asn:altStatementNotation "348"@en-au;
+  rdfs:label "<p>interprets mathematical or real-life situations, systematically applying appropriate strategies to solve problems</p>"@en-au .
+
 det:3d2c85d1-2ea1-4214-9a56-6ed9335d6e98 a det:ContentGroup;
   asn:altStatementNotation "790"@en-au;
   rdfs:label "Linear Relationships"@en-au .
 
+det:3ee1d7e0-830c-4844-8232-d3c725b8bf05 a det:Outcome;
+  asn:altStatementNotation "401"@en-au;
+  rdfs:label "<p>applies formulas to calculate the volumes of composite solids composed of right prisms and cylinders</p>"@en-au .
+
+det:3f28ca1b-8f3d-4218-9780-9b2a1544e49a a det:Outcome;
+  asn:altStatementNotation "333"@en-au;
+  rdfs:label "<p>uses appropriate terminology, diagrams and symbols in mathematical contexts</p>"@en-au .
+
 det:42ee3a9c-73a1-4a65-b899-080467d29366 a det:ContentGroup;
   asn:altStatementNotation "1094"@en-au;
   rdfs:label "Time"@en-au .
+
+det:43223acc-49fb-4595-a2e8-67502b19ef56 a det:Outcome;
+  asn:altStatementNotation "301"@en-au;
+  rdfs:label "<p>uses statistical displays to compare sets of data, and evaluates statistical claims made in the media</p>"@en-au .
 
 det:43ea8838-3483-4ff2-9f71-ff67899aaabf a det:Stage;
   asn:altStatementNotation "1"@en-au;
@@ -65,13 +289,53 @@ det:45fe274c-950c-4f7b-a62e-b9c028669993 a det:Stage;
   det:contentGroup det:3a9cc8d6-146e-4eba-8665-0b1bd5f42049;
   rdfs:label "Stage 3"@en-au .
 
+det:4726bbe0-671f-4c37-9cad-65590517f793 a det:Outcome;
+  asn:altStatementNotation "473"@en-au;
+  rdfs:label "<p>applies mathematical strategies to solve problems</p>"@en-au .
+
 det:4bd1e9ed-1ee1-4345-81c8-dc585ce72f15 a det:ContentGroup;
   asn:altStatementNotation "695"@en-au;
   rdfs:label "Two-Dimensional Space"@en-au .
 
+det:4c2ba1ff-e7a1-4e79-9034-824de42c838d a det:Outcome;
+  asn:altStatementNotation "281"@en-au;
+  rdfs:label "<p>TEST UPDATE describes mathematical situations using everyday language, actions, materials and informal recordings</p>"@en-au .
+
+det:4d840a34-b1f1-4825-bfed-c61baaf6c7a6 a det:Outcome;
+  asn:altStatementNotation "305"@en-au;
+  rdfs:label "<p>recognises, describes and continues repeating patterns</p>"@en-au .
+
+det:5014537e-99c8-46b4-ab59-c036ec1eb935 a det:Outcome;
+  asn:altStatementNotation "475"@en-au;
+  rdfs:label "<p>recognises language used to represent number</p>"@en-au .
+
+det:505d35ed-d4ae-4b1b-b049-376605af2e59 a det:Outcome;
+  asn:altStatementNotation "337"@en-au;
+  rdfs:label "<p>describes and compares the capacities of containers and the volumes of objects or substances using everyday language</p>"@en-au .
+
+det:51a62224-f8f6-49aa-9f52-2063f33d09d2 a det:Outcome;
+  asn:altStatementNotation "418"@en-au;
+  rdfs:label "<p>uses the gradient-intercept form to interpret and graph linear relationships</p>"@en-au .
+
+det:520d5d2a-831c-494b-947c-6beb2743861f a det:Outcome;
+  asn:altStatementNotation "383"@en-au;
+  rdfs:label "<p>uses simple maps and grids to represent position and follow routes, including using compass directions</p>"@en-au .
+
+det:52f4decc-6a1e-4aa6-9a9a-ac1901faf08b a det:Outcome;
+  asn:altStatementNotation "406"@en-au;
+  rdfs:label "<p>applies formulas to find the surface areas of right pyramids, right cones, spheres and related composite solids</p>"@en-au .
+
 det:53346db0-1554-4f88-99fe-f047c6c24480 a det:ContentGroup;
   asn:altStatementNotation "766"@en-au;
   rdfs:label "Area and Surface Area"@en-au .
+
+det:533b4499-4fbd-4975-9132-2231656de470 a det:Outcome;
+  asn:altStatementNotation "490"@en-au;
+  rdfs:label "<p>reads and interprets time in a variety of situations</p>"@en-au .
+
+det:54304bc6-cf00-45e8-91c4-934db3c3e1a2 a det:Outcome;
+  asn:altStatementNotation "492"@en-au;
+  rdfs:label "<p>organises personal time and manages scheduled activities</p>"@en-au .
 
 det:54b00299-8f64-430b-aee4-6cd39924bc18 a det:ContentGroup;
   asn:altStatementNotation "771"@en-au;
@@ -81,21 +345,85 @@ det:54da2781-2ccf-488d-9e97-75ff7d0cdf17 a det:ContentGroup;
   asn:altStatementNotation "696"@en-au;
   rdfs:label "Position"@en-au .
 
+det:55b40b22-dbb2-4f18-86f0-3c699c138d10 a det:Outcome;
+  asn:altStatementNotation "496"@en-au;
+  rdfs:label "<p>selects and uses units to estimate and measure volume and capacity</p>"@en-au .
+
+det:55c02408-6d61-42c5-8e7c-ad654d885183 a det:Outcome;
+  asn:altStatementNotation "364"@en-au;
+  rdfs:label "<p>classifies, describes and uses the properties of triangles and quadrilaterals, and determines congruent triangles to find unknown side lengths and angles</p>"@en-au .
+
+det:56ddcf27-a798-46bd-bc9b-06e0c2e785d8 a det:Outcome;
+  asn:altStatementNotation "346"@en-au;
+  rdfs:label "<p>manipulates, sorts and describes representations of two-dimensional shapes, including circles, triangles, squares and rectangles, using everyday language</p>"@en-au .
+
 det:59270507-84cc-4f71-a781-d475ad24f284 a det:ContentGroup;
   asn:altStatementNotation "770"@en-au;
   rdfs:label "Circle Geometry #"@en-au .
+
+det:5afaf2ea-c8c5-4d78-8a05-468991b209a6 a det:Outcome;
+  asn:altStatementNotation "422"@en-au;
+  rdfs:label "<p>recognises, describes and sketches polynomials, and applies the factor and remainder theorems to solve problems</p>"@en-au .
+
+det:5b3e5eb7-b579-4376-85d0-834e19adc07e a det:Outcome;
+  asn:altStatementNotation "299"@en-au;
+  rdfs:label "<p>represents probabilities of simple and compound events</p>"@en-au .
+
+det:5bc9f580-2d80-4f83-a475-3ea964656a5f a det:Outcome;
+  asn:altStatementNotation "363"@en-au;
+  rdfs:label "<p>manipulates, sorts, represents, describes and explores two-dimensional shapes, including quadrilaterals, pentagons, hexagons and octagons</p>"@en-au .
+
+det:5c223b99-477a-48cc-8781-ab101c9572d1 a det:Outcome;
+  asn:altStatementNotation "521"@en-au;
+  rdfs:label "<p>compares and orders coins and notes</p>"@en-au .
+
+det:5c3311b3-5832-4c58-bcc6-9fffcb05a55b a det:Outcome;
+  asn:altStatementNotation "368"@en-au;
+  rdfs:label "<p>identifies and uses angle relationships, including those related to transversals on sets of parallel lines</p>"@en-au .
+
+det:5d325d9f-e765-4990-a56f-18ff771416db a det:Outcome;
+  asn:altStatementNotation "384"@en-au;
+  rdfs:label "<p>operates with algebraic expressions involving positive-integer and zero indices, and establishes the meaning of negative indices for numerical bases</p>"@en-au .
+
+det:5dd058c6-bdb9-4e91-8d1d-2f44feb39fe7 a det:Outcome;
+  asn:altStatementNotation "284"@en-au;
+  rdfs:label "<p>uses concrete materials and/or pictorial representations to support conclusions</p>"@en-au .
 
 det:60fa1e56-8ba6-403e-a09d-d2a6a7e0a8a5 a det:ContentGroup;
   asn:altStatementNotation "1120"@en-au;
   rdfs:label "Whole Numbers"@en-au .
 
+det:614ef97e-67a5-4aea-b9a4-717766c4e01f a det:Outcome;
+  asn:altStatementNotation "307"@en-au;
+  rdfs:label "<p>investigates relationships between two statistical variables, including their relationship over time</p>"@en-au .
+
+det:616a2b4b-382e-424a-a196-c4551b9721ce a det:Outcome;
+  asn:altStatementNotation "356"@en-au;
+  rdfs:label "<p>provides reasoning to support conclusions that are appropriate to the context</p>"@en-au .
+
 det:61d86320-6d4d-4ac0-8d19-f62ab1dbe26e a det:ContentGroup;
   asn:altStatementNotation "650"@en-au;
   rdfs:label "Fractions and Decimals"@en-au .
 
+det:61d90531-7235-4a70-ba89-abc4843e44f9 a det:Outcome;
+  asn:altStatementNotation "352"@en-au;
+  rdfs:label "<p>measures, records, compares and estimates areas using uniform informal units</p>"@en-au .
+
+det:631c1455-8ed4-4b32-8d11-326df9c4997e a det:Outcome;
+  asn:altStatementNotation "310"@en-au;
+  rdfs:label "<p>uses a range of mental strategies and concrete materials for multiplication and division</p>"@en-au .
+
 det:63839d8c-dbaf-46ac-9316-b52dd6c5e0f7 a det:ContentGroup;
   asn:altStatementNotation "1014"@en-au;
   rdfs:label "Ratios and Rates"@en-au .
+
+det:63952f07-3b6e-47a6-8b8c-0229d2af2057 a det:Outcome;
+  asn:altStatementNotation "308"@en-au;
+  rdfs:label "<p>gathers and organises data, displays data in lists, tables and picture graphs, and interprets the results</p>"@en-au .
+
+det:650b8233-7cf6-46dc-9a62-156b99ef065c a det:Outcome;
+  asn:altStatementNotation "397"@en-au;
+  rdfs:label "<p>measures and constructs angles, and applies angle relationships to find unknown angles</p>"@en-au .
 
 det:656bf964-5b6f-42c7-9aa0-bd24d153ec3e a det:ContentGroup;
   asn:altStatementNotation "1105"@en-au;
@@ -110,6 +438,22 @@ det:67039242-eb26-4bda-8e44-c41dfe8838e9 a det:Stage;
   det:contentGroup det:b6cef8c9-40b8-4ab9-baff-fb00ad02f686;
   rdfs:label "Life Skills"@en-au .
 
+det:67e10ff1-40b4-4925-9b74-da2a456ef22a a det:Outcome;
+  asn:altStatementNotation "408"@en-au;
+  rdfs:label "<p>graphs simple non-linear relationships</p>"@en-au .
+
+det:68a0d627-9322-461a-bedc-1d33423d8948 a det:Outcome;
+  asn:altStatementNotation "359"@en-au;
+  rdfs:label "<p>applies Pythagoras&#8217; theorem to calculate side lengths in right-angled triangles, and solves related problems</p>"@en-au .
+
+det:6a6b48b0-ea9a-4b5b-b408-f4bea31c0f45 a det:Outcome;
+  asn:altStatementNotation "501"@en-au;
+  rdfs:label "<p>recognises that maps and plans are a representation of positions in space</p>"@en-au .
+
+det:6c45e110-b8dc-4cec-b854-604b753cc457 a det:Outcome;
+  asn:altStatementNotation "377"@en-au;
+  rdfs:label "<p>interprets very small and very large units of measurement, uses scientific notation, and rounds to significant figures</p>"@en-au .
+
 det:6c4e36bf-13b4-4443-9456-b142e78ff2dc a det:ContentGroup;
   asn:altStatementNotation "781"@en-au;
   rdfs:label "Financial Mathematics"@en-au .
@@ -118,9 +462,25 @@ det:6ca9cabb-910b-4e07-89b4-c8b0e8e1c1b1 a det:ContentGroup;
   asn:altStatementNotation "1021"@en-au;
   rdfs:label "Logarithms #"@en-au .
 
+det:6e6a82c6-1d48-484d-81bf-b8e8ad0a8853 a det:Outcome;
+  asn:altStatementNotation "376"@en-au;
+  rdfs:label "<p>makes, compares, sketches and names three-dimensional objects, including prisms, pyramids, cylinders, cones and spheres, and describes their features</p>"@en-au .
+
 det:70a25516-d324-4f84-a1a2-68be8928262d a det:ContentGroup;
   asn:altStatementNotation "694"@en-au;
   rdfs:label "Three-Dimensional Space"@en-au .
+
+det:70d92c82-afce-4af1-a8ed-92ac3ebf498b a det:Outcome;
+  asn:altStatementNotation "370"@en-au;
+  rdfs:label "<p>measures, records, compares and estimates volumes and capacities using litres, millilitres and cubic centimetres</p>"@en-au .
+
+det:71fa86c9-632d-4722-8d8a-e5ef072f75cc a det:Outcome;
+  asn:altStatementNotation "304"@en-au;
+  rdfs:label "<p>uses quartiles and box plots to compare sets of data, and evaluates sources of data</p>"@en-au .
+
+det:72b290d4-4583-4be5-9caa-10181678da03 a det:Outcome;
+  asn:altStatementNotation "520"@en-au;
+  rdfs:label "<p>reads and represents numbers</p>"@en-au .
 
 det:73e03ddb-c04e-44ff-a6f8-edb1b6324f5f a det:ContentGroup;
   asn:altStatementNotation "1019"@en-au;
@@ -128,17 +488,87 @@ det:73e03ddb-c04e-44ff-a6f8-edb1b6324f5f a det:ContentGroup;
 
 det:743b353a-6a30-4551-a533-4a9228da6d95 a det:Objective;
   asn:altStatementNotation "15"@en-au;
+  det:outcome det:06b4b99e-e21c-4aa7-92ed-29078224fa16, det:0f5ebfa0-a85a-49d5-b706-394d264b4dd2,
+    det:1fc4d46b-a922-446c-ad18-e5490a9056bd, det:2bdeb9fa-781d-4c6b-ad48-97c77f602e74,
+    det:39a84ec2-1edd-4a1f-8551-3015212eec45, det:3b22c57b-d169-4bce-b48b-819f68513053,
+    det:3d26b8e8-5cc3-46bb-ad60-fcb711955a1f, det:3f28ca1b-8f3d-4218-9780-9b2a1544e49a,
+    det:4726bbe0-671f-4c37-9cad-65590517f793, det:4c2ba1ff-e7a1-4e79-9034-824de42c838d,
+    det:5dd058c6-bdb9-4e91-8d1d-2f44feb39fe7, det:616a2b4b-382e-424a-a196-c4551b9721ce,
+    det:7687d04b-fe07-462c-9211-baa4694667d7, det:7fef994e-9077-48e5-9d63-11470dd26f3e,
+    det:81d6eb86-1026-4ea1-8119-e69b54caf734, det:8bca9282-6fdd-4274-a309-88c491877380,
+    det:9aa88e42-0f3e-46a4-9d9a-391b1791ab2a, det:a4d484d7-c813-414e-a1fc-ab435cc73807,
+    det:a7e34d77-c166-4ee1-84a2-a95e242a4b32, det:afae0766-6d2a-4615-b142-b5fa6dea64e4,
+    det:bd1ffc47-fc10-4361-a20d-d6d7487d2c1b, det:d21c1a12-619f-4261-b095-5cb91ecb2881,
+    det:d36a9188-5f97-43b1-ba4f-9c28221bbaac, det:e33a6927-af12-48a1-8f2e-924935162b4c,
+    det:e89832f2-87cb-474c-bdbe-8ab32b92e3d0, det:ebeb01ab-13c4-419e-9ac9-3001059a0eb2,
+    det:fa7d27ce-d373-4c32-95f6-7ea39ab7aa59;
   rdfs:label "develop understanding and fluency in mathematics through inquiry, exploring and connecting mathematical concepts, choosing and applying problem-solving skills and mathematical techniques, communication and reasoning"@en-au .
+
+det:74c6c661-615a-46fd-815a-f06f5875792b a det:Outcome;
+  asn:altStatementNotation "394"@en-au;
+  rdfs:label "<p>determines the midpoint, gradient and length of an interval, and graphs linear relationships</p>"@en-au .
 
 det:75fb1be6-3a45-46a6-9c9b-c5ad0ff1e459 a det:Stage;
   asn:altStatementNotation "8"@en-au;
   det:contentGroup det:42ee3a9c-73a1-4a65-b899-080467d29366, det:f92085ec-edfe-4b13-bcea-8f4316693aae;
   rdfs:label "Stage 5.2"@en-au .
 
+det:76257ce8-d890-4ff8-8597-4d6aa4e61ce1 a det:Outcome;
+  asn:altStatementNotation "497"@en-au;
+  rdfs:label "<p>applies formal units to estimate and calculate area</p>"@en-au .
+
+det:7687d04b-fe07-462c-9211-baa4694667d7 a det:Outcome;
+  asn:altStatementNotation "351"@en-au;
+  rdfs:label "<p>generalises mathematical ideas and techniques to analyse and solve problems efficiently</p>"@en-au .
+
+det:7b46407c-6863-48e5-bb1d-8ed950cc198f a det:Outcome;
+  asn:altStatementNotation "500"@en-au;
+  rdfs:label "<p>responds to and uses the language of position in everyday contexts</p>"@en-au .
+
+det:7cb16e9c-33b5-4d64-a94e-c10f055ff040 a det:Outcome;
+  asn:altStatementNotation "315"@en-au;
+  rdfs:label "<p>creates, represents and continues a variety of patterns with numbers and objects</p>"@en-au .
+
 det:7ea0f90a-b46e-428d-b910-9f45bf31de55 a det:Stage;
   asn:altStatementNotation "3"@en-au;
   det:contentGroup det:60fa1e56-8ba6-403e-a09d-d2a6a7e0a8a5;
   rdfs:label "Stage 2"@en-au .
+
+det:7fef994e-9077-48e5-9d63-11470dd26f3e a det:Outcome;
+  asn:altStatementNotation "335"@en-au;
+  rdfs:label "<p>selects appropriate notations and conventions to communicate mathematical ideas and solutions</p>"@en-au .
+
+det:815876c3-c8b7-418d-afde-614802f74ff7 a det:Outcome;
+  asn:altStatementNotation "334"@en-au;
+  rdfs:label "<p>describes and compares lengths and distances using everyday language</p>"@en-au .
+
+det:81d6eb86-1026-4ea1-8119-e69b54caf734 a det:Outcome;
+  asn:altStatementNotation "289"@en-au;
+  rdfs:label "<p>selects and uses appropriate mental or written strategies, or technology, to solve problems</p>"@en-au .
+
+det:820d4b89-350e-4289-918e-ad46303db417 a det:Outcome;
+  asn:altStatementNotation "328"@en-au;
+  rdfs:label "<p>selects and applies appropriate strategies for multiplication and division, and applies the order of operations to calculations involving more than one operation</p>"@en-au .
+
+det:82392980-5686-48e1-b076-3d2b37ebe697 a det:Outcome;
+  asn:altStatementNotation "373"@en-au;
+  rdfs:label "<p>calculates the areas of composite shapes, and the surface areas of rectangular and triangular prisms</p>"@en-au .
+
+det:8a9185e5-06c2-498e-bd3a-55c7857ce8b4 a det:Outcome;
+  asn:altStatementNotation "407"@en-au;
+  rdfs:label "<p>applies formulas to find the volumes of right pyramids, right cones, spheres and related composite solids</p>"@en-au .
+
+det:8a959985-ba90-48ad-87ec-9d5c1cf00d14 a det:Outcome;
+  asn:altStatementNotation "419"@en-au;
+  rdfs:label "<p>sketches and interprets a variety of non-linear relationships</p>"@en-au .
+
+det:8bca9282-6fdd-4274-a309-88c491877380 a det:Outcome;
+  asn:altStatementNotation "283"@en-au;
+  rdfs:label "<p>uses objects, actions, technology and/or trial and error to explore mathematical problems</p>"@en-au .
+
+det:8d64d01c-8db1-402c-aa61-3cbf15b13e32 a det:Outcome;
+  asn:altStatementNotation "343"@en-au;
+  rdfs:label "<p>uses formulas to calculate the areas of quadrilaterals and circles, and converts between units of area</p>"@en-au .
 
 det:9201a07b-3feb-4b49-b6f2-ad5d13156635 a det:ContentGroup;
   asn:altStatementNotation "772"@en-au;
@@ -148,9 +578,53 @@ det:92cc35cb-7939-403c-8953-37d5d0cf20ee a det:ContentGroup;
   asn:altStatementNotation "634"@en-au;
   rdfs:label "Data"@en-au .
 
+det:9311b942-00b5-46db-9683-0b8ae0d71a2b a det:Outcome;
+  asn:altStatementNotation "372"@en-au;
+  rdfs:label "<p>measures, records, compares and estimates the masses of objects using kilograms and grams</p>"@en-au .
+
+det:9516402e-4de7-44e5-a87a-7b9dc929bc0e a det:Outcome;
+  asn:altStatementNotation "495"@en-au;
+  rdfs:label "<p>selects and uses units to estimate and measure mass</p>"@en-au .
+
+det:9516e7bd-e7de-46ec-8417-3a7d6a709660 a det:Outcome;
+  asn:altStatementNotation "413"@en-au;
+  rdfs:label "<p>applies deductive reasoning to prove circle theorems and to solve related problems</p>"@en-au .
+
 det:990d6a93-4969-47a5-b07e-f66280e2a394 a det:ContentGroup;
   asn:altStatementNotation "1015"@en-au;
   rdfs:label "Algebraic Techniques §"@en-au .
+
+det:992de690-eb0e-4029-aa2e-a0dc52d29bc1 a det:Outcome;
+  asn:altStatementNotation "392"@en-au;
+  rdfs:label "<p>uses 24-hour time and am and pm notation in real-life situations, and constructs timelines</p>"@en-au .
+
+det:9aa88e42-0f3e-46a4-9d9a-391b1791ab2a a det:Outcome;
+  asn:altStatementNotation "287"@en-au;
+  rdfs:label "<p>supports conclusions by explaining or demonstrating how answers were obtained</p>"@en-au .
+
+det:9bfb6ae5-4a4c-428d-ba34-093e2bd1dc6c a det:Outcome;
+  asn:altStatementNotation "365"@en-au;
+  rdfs:label "<p>represents and describes the positions of objects in everyday situations and on maps</p>"@en-au .
+
+det:9ca1c422-db6b-4a5d-8818-ad2de8bb007a a det:Outcome;
+  asn:altStatementNotation "355"@en-au;
+  rdfs:label "<p>performs calculations of time that involve mixed units, and interprets time zones</p>"@en-au .
+
+det:9d96abd0-9bc4-4e3f-8577-abfa4d99818b a det:Outcome;
+  asn:altStatementNotation "327"@en-au;
+  rdfs:label "<p>selects and applies appropriate strategies for addition and subtraction with counting numbers of any size</p>"@en-au .
+
+det:9df2b2b2-1abd-4751-9e29-27d9dea15354 a det:Outcome;
+  asn:altStatementNotation "381"@en-au;
+  rdfs:label "<p>identifies, describes, compares and classifies angles</p>"@en-au .
+
+det:9f590889-3683-4b01-b734-19a8db49add1 a det:Outcome;
+  asn:altStatementNotation "336"@en-au;
+  rdfs:label "<p>describes and compares areas using everyday language</p>"@en-au .
+
+det:9f69909d-95b8-4cfa-9249-f011b1dd8549 a det:Outcome;
+  asn:altStatementNotation "332"@en-au;
+  rdfs:label "<p>analyses and creates geometric and number patterns, constructs and completes number sentences, and locates points on the Cartesian plane</p>"@en-au .
 
 det:a2d08bd0-d256-4d02-a651-908161637d3c a det:ContentGroup;
   asn:altStatementNotation "767"@en-au;
@@ -160,6 +634,22 @@ det:a37bca78-15af-42fe-818b-3c6235d83f42 a det:ContentGroup;
   asn:altStatementNotation "689"@en-au;
   rdfs:label "Length"@en-au .
 
+det:a3d05f7a-9b94-4e19-ada4-0d8e564c5a9b a det:Outcome;
+  asn:altStatementNotation "507"@en-au;
+  rdfs:label "<p>recognises the elements of chance and probability in everyday events</p>"@en-au .
+
+det:a4441fbc-d069-4b1f-913c-3bb27d8356d3 a det:Outcome;
+  asn:altStatementNotation "386"@en-au;
+  rdfs:label "<p>recognises direct and indirect proportion, and solves problems involving direct proportion</p>"@en-au .
+
+det:a4b707f7-837d-4f49-a713-08ea76b4897c a det:Outcome;
+  asn:altStatementNotation "499"@en-au;
+  rdfs:label "<p>identifies the features of three-dimensional objects and/or two-dimensional shapes and applies these in a range of contexts</p>"@en-au .
+
+det:a4d484d7-c813-414e-a1fc-ab435cc73807 a det:Outcome;
+  asn:altStatementNotation "474"@en-au;
+  rdfs:label "<p>uses reasoning to recognise mathematical relationships</p>"@en-au .
+
 det:a4e4df14-ecde-419e-ace0-3b35a06361ee a det:ContentGroup;
   asn:altStatementNotation "774"@en-au;
   rdfs:label "Properties of Geometrical Figures"@en-au .
@@ -168,21 +658,92 @@ det:a554da87-f60e-4fd7-a8af-f04193c09be9 a det:ContentGroup;
   asn:altStatementNotation "690"@en-au;
   rdfs:label "Area"@en-au .
 
+det:a7e34d77-c166-4ee1-84a2-a95e242a4b32 a det:Outcome;
+  asn:altStatementNotation "338"@en-au;
+  rdfs:label "<p>uses and interprets formal definitions and generalisations when explaining solutions and/or conjectures</p>"@en-au .
+
 det:a8ea2f2f-501a-4937-a0ed-e9432489d5b4 a det:ContentGroup;
   asn:altStatementNotation "780"@en-au;
   rdfs:label "Fractions, Decimals and Percentages"@en-au .
 
 det:a9ae84ce-908c-4f75-a67f-c76dcf576dd1 a det:Objective;
   asn:altStatementNotation "18"@en-au;
+  det:outcome det:03ae980f-7083-4acb-a35a-f2f9dc0d2b2f, det:10bba806-054e-4077-be4e-4823d081def2,
+    det:1bdaa1f4-8e1c-43c1-8cf2-dd334f167097, det:1e58e3c4-a855-431d-bc91-76b5c216b7f9,
+    det:24c44d2f-d09e-4a17-ac22-e2c41957ca43, det:286f6b8e-bacd-4f61-b8c7-751aaf0cb796,
+    det:306b7ae8-58cf-4c78-88d7-722ad3c01768, det:3b07faf9-ceff-4ce9-a606-6663392da662,
+    det:43223acc-49fb-4595-a2e8-67502b19ef56, det:5b3e5eb7-b579-4376-85d0-834e19adc07e,
+    det:614ef97e-67a5-4aea-b9a4-717766c4e01f, det:63952f07-3b6e-47a6-8b8c-0229d2af2057,
+    det:71fa86c9-632d-4722-8d8a-e5ef072f75cc, det:a3d05f7a-9b94-4e19-ada4-0d8e564c5a9b,
+    det:b4af114b-8f51-4d19-a35c-a60fee109b0c, det:c1fa2396-ef19-40fb-9a70-bbaaf437fde4,
+    det:c8d1bdc6-8217-4ed8-93fc-3069976deaf8, det:ccb62dd4-559e-41d3-a68c-b877d82f496d,
+    det:ce26e06b-1071-41a8-9166-1d39cb0da2e0, det:cfc7fd33-a1fa-49c6-b256-51f1202d0b7b,
+    det:d442148d-13da-4d38-b373-c1a846c8e053, det:e6be7542-31bd-4427-bc7e-925caa60cc22;
   rdfs:label "collect, represent, analyse, interpret and evaluate data, assign and use probabilities, and make sound judgements"@en-au .
+
+det:ab8de305-7447-40f1-8785-d957d6266ceb a det:Outcome;
+  asn:altStatementNotation "385"@en-au;
+  rdfs:label "<p>selects and uses the appropriate unit and device to measure lengths and distances, calculates perimeters, and converts between units of length</p>"@en-au .
+
+det:abae563c-e203-4b5e-b8ba-f5572c1ea6d2 a det:Outcome;
+  asn:altStatementNotation "410"@en-au;
+  rdfs:label "<p>applies Pythagoras&#8217; theorem, trigonometric relationships, the sine rule, the cosine rule and the area rule to solve problems, including problems involving three dimensions</p>"@en-au .
+
+det:abe682e5-2dae-4123-8755-28af38da6e00 a det:Outcome;
+  asn:altStatementNotation "340"@en-au;
+  rdfs:label "<p>describes and compares the masses of objects using everyday language</p>"@en-au .
+
+det:abe79fd8-a529-4ef9-8852-f827b798467a a det:Outcome;
+  asn:altStatementNotation "484"@en-au;
+  rdfs:label "<p>makes informed decisions about purchasing goods and services</p>"@en-au .
+
+det:abfae75e-f3b6-48ff-a71f-e2297b3016f5 a det:Outcome;
+  asn:altStatementNotation "319"@en-au;
+  rdfs:label "<p>uses mental and written strategies for addition and subtraction involving two-, three-, four- and five-digit numbers</p>"@en-au .
+
+det:ac0af94f-6219-4193-b8b1-22ee435cd7db a det:Outcome;
+  asn:altStatementNotation "309"@en-au;
+  rdfs:label "<p>uses a range of strategies and informal recording methods for addition and subtraction involving one- and two-digit numbers</p>"@en-au .
+
+det:ac8e42f8-fd6d-4dea-9458-335792daeac3 a det:Outcome;
+  asn:altStatementNotation "367"@en-au;
+  rdfs:label "<p>compares, orders and calculates with integers, applying a range of strategies to aid computation</p>"@en-au .
 
 det:acbc5bda-500d-4890-b13d-3800634a541c a det:ContentGroup;
   asn:altStatementNotation "692"@en-au;
   rdfs:label "Mass"@en-au .
 
+det:afae0766-6d2a-4615-b142-b5fa6dea64e4 a det:Outcome;
+  asn:altStatementNotation "291"@en-au;
+  rdfs:label "<p>checks the accuracy of a statement and explains the reasoning used</p>"@en-au .
+
+det:b0123d4a-a5b8-4fb5-b95f-92fe5120c1b6 a det:Outcome;
+  asn:altStatementNotation "522"@en-au;
+  rdfs:label "<p>calculates with money</p>"@en-au .
+
+det:b2af3e15-face-4def-813f-50e0411e6f6e a det:Outcome;
+  asn:altStatementNotation "412"@en-au;
+  rdfs:label "<p>solves complex linear, quadratic, simple cubic and simultaneous equations, and rearranges literal equations</p>"@en-au .
+
+det:b399a302-30ce-42d2-8ccf-29c6c2971c9d a det:Outcome;
+  asn:altStatementNotation "358"@en-au;
+  rdfs:label "<p>describes, compares and orders durations of events, and reads half- and quarter-hour time</p>"@en-au .
+
+det:b3b4e984-19a5-42ce-b17c-5d12478f19f1 a det:Outcome;
+  asn:altStatementNotation "416"@en-au;
+  rdfs:label "<p>uses formulas to find midpoint, gradient and distance on the Cartesian plane, and applies standard forms of the equation of a straight line</p>"@en-au .
+
+det:b3b63a92-ab8c-4cd5-946d-c1409a02bdfd a det:Outcome;
+  asn:altStatementNotation "379"@en-au;
+  rdfs:label "<p>manipulates, identifies and sketches two-dimensional shapes, including special quadrilaterals, and describes their features</p>"@en-au .
+
 det:b49b51b8-5847-49a3-89cc-dc0fbb2ea403 a det:ContentGroup;
   asn:altStatementNotation "647"@en-au;
   rdfs:label "Whole Numbers"@en-au .
+
+det:b4af114b-8f51-4d19-a35c-a60fee109b0c a det:Outcome;
+  asn:altStatementNotation "324"@en-au;
+  rdfs:label "<p>conducts chance experiments and assigns probabilities as values between 0 and 1 to describe their outcomes</p>"@en-au .
 
 det:b6485993-ac37-4093-adf1-8646346b4728 a det:ContentGroup;
   asn:altStatementNotation "768"@en-au;
@@ -196,45 +757,149 @@ det:b88a6f2d-c084-4784-a407-218c8836c770 a det:ContentGroup;
   asn:altStatementNotation "1018"@en-au;
   rdfs:label "Linear Relationships §"@en-au .
 
-det:bb78bb96-6c33-449a-8183-5ce84cc9d616 a det:Stage, det:Syllabus;
+det:bb6a5b31-52bc-45b3-bca7-7d54fc5c1b3f a det:Outcome;
+  asn:altStatementNotation "493"@en-au;
+  rdfs:label "<p>estimates and measures in everyday contexts</p>"@en-au .
+
+det:bb78bb96-6c33-449a-8183-5ce84cc9d616 a det:Syllabus;
   asn:altStatementNotation "2"@en-au;
-  det:contentGroup det:656bf964-5b6f-42c7-9aa0-bd24d153ec3e;
   det:objective det:743b353a-6a30-4551-a533-4a9228da6d95, det:a9ae84ce-908c-4f75-a67f-c76dcf576dd1,
     det:c183b88f-dddd-465f-81ee-fa789d15132e, det:d369d2ae-8069-4386-b6d6-5eae3450b1c0;
   det:stage det:43ea8838-3483-4ff2-9f71-ff67899aaabf, det:45fe274c-950c-4f7b-a62e-b9c028669993,
     det:67039242-eb26-4bda-8e44-c41dfe8838e9, det:75fb1be6-3a45-46a6-9c9b-c5ad0ff1e459,
-    det:7ea0f90a-b46e-428d-b910-9f45bf31de55, det:bb78bb96-6c33-449a-8183-5ce84cc9d616,
+    det:7ea0f90a-b46e-428d-b910-9f45bf31de55, det:bc86ee5d-e5a4-49a6-afd2-f6d364645deb,
     det:cd049216-3bfe-47ac-9a63-ba076ee7c5f4, det:e709036c-8f8a-40ac-a6b6-b02a42d8c16e,
     det:e9a5f0a5-9551-4e3b-a820-0c249f151fee;
-  rdfs:label "Mathematics K–10"@en-au, "Stage 1"@en-au .
+  rdfs:label "Mathematics K–10"@en-au .
+
+det:bc86ee5d-e5a4-49a6-afd2-f6d364645deb a det:Stage;
+  asn:altStatementNotation "2"@en-au;
+  det:contentGroup det:656bf964-5b6f-42c7-9aa0-bd24d153ec3e;
+  rdfs:label "Stage 1"@en-au .
 
 det:bc8e2b3f-b5e4-4965-8be9-f788f0bd3148 a det:ContentGroup;
   asn:altStatementNotation "748"@en-au;
   rdfs:label "Bivariate Data Analysis"@en-au .
 
+det:bd1ffc47-fc10-4361-a20d-d6d7487d2c1b a det:Outcome;
+  asn:altStatementNotation "344"@en-au;
+  rdfs:label "<p>selects and uses appropriate strategies to solve problems</p>"@en-au .
+
+det:bd26ae19-4d87-450a-b790-d9337e215136 a det:Outcome;
+  asn:altStatementNotation "382"@en-au;
+  rdfs:label "<p>applies trigonometry, given diagrams, to solve problems, including problems involving angles of elevation and depression</p>"@en-au .
+
 det:bf2e0768-a2bd-441d-8ffa-e6a905b73e77 a det:ContentGroup;
   asn:altStatementNotation "791"@en-au;
   rdfs:label "Non-Linear Relationships"@en-au .
+
+det:bf308c44-8a8e-4974-91db-3886e7a71e33 a det:Outcome;
+  asn:altStatementNotation "313"@en-au;
+  rdfs:label "<p>represents and models halves, quarters and eighths</p>"@en-au .
+
+det:bff4ef78-2af5-4c4a-977f-39f25d68658b a det:Outcome;
+  asn:altStatementNotation "380"@en-au;
+  rdfs:label "<p>operates with fractions, decimals and percentages</p>"@en-au .
 
 det:bfff8624-abf0-407d-ad4c-23cb47366758 a det:ContentGroup;
   asn:altStatementNotation "1020"@en-au;
   rdfs:label "Polynomials #"@en-au .
 
+det:c04caf5e-fd3e-4794-95ee-13fc7eb0283f a det:Outcome;
+  asn:altStatementNotation "414"@en-au;
+  rdfs:label "<p>generalises number properties to operate with algebraic expressions</p>"@en-au .
+
 det:c151312a-2800-46fe-aa5e-295f19368d6e a det:ContentGroup;
   asn:altStatementNotation "691"@en-au;
   rdfs:label "Volume and Capacity"@en-au .
 
+det:c17205c3-2b89-4a39-9158-0726cd253696 a det:Outcome;
+  asn:altStatementNotation "388"@en-au;
+  rdfs:label "<p>selects and uses the appropriate unit to estimate, measure and calculate volumes and capacities, and converts between units of capacity</p>"@en-au .
+
 det:c183b88f-dddd-465f-81ee-fa789d15132e a det:Objective;
   asn:altStatementNotation "16"@en-au;
+  det:outcome det:001b2d41-ca4a-4d8a-a82b-c7d6e6f9d8c8, det:013de7fc-f966-4916-bc04-8f42ac5fb0aa,
+    det:0800392a-4ad1-4e38-8eda-0c1b7ca5e507, det:08c72ed5-3886-4138-a004-9e0833a47c7e,
+    det:09f86600-e6fb-414e-95d3-2bb152c3e1cf, det:0b0e3722-4fdb-48dd-b191-fcb049f57af4,
+    det:0d2d320b-de9e-4c50-b6ef-e75be41c6b61, det:0dc5d705-dc9c-4563-bc8c-74c604d531a2,
+    det:108c21df-d694-458c-a40f-3c8fbd73a150, det:1262d1a1-987f-41f7-9df0-08e8ad9f2c71,
+    det:16f717de-bba6-46fd-9d4c-c970462a394d, det:174e4f40-8c7b-412a-91c6-aa64e6c9bcaf,
+    det:196d7cb9-5858-4b3c-bc7b-1a4bdfefa6f5, det:1e2c30da-3594-40ec-b8dd-5060abe3b02e,
+    det:1efcac6b-f0f5-41d9-9a6f-2a1d5ee063f1, det:2087d7ae-f60a-405c-ace5-2d7313eaead0,
+    det:22031455-8a91-45b7-97f6-18cd8a661160, det:244a5693-f254-47cf-9e8f-88cbf8b7735c,
+    det:25259cbd-f1b1-4987-80e5-af10f440fa43, det:28ddded8-cd9d-459e-a9b9-84498e5bbdc7,
+    det:2ec8fe67-974c-4d6c-8e2a-8b465fba1b02, det:2fc75f53-acb4-4582-898d-175123ed6f15,
+    det:3146828d-5ed0-4d90-80cb-9d865f8485da, det:3406393e-a58f-4340-8078-7ef825a77c2a,
+    det:4d840a34-b1f1-4825-bfed-c61baaf6c7a6, det:5014537e-99c8-46b4-ab59-c036ec1eb935,
+    det:51a62224-f8f6-49aa-9f52-2063f33d09d2, det:5afaf2ea-c8c5-4d78-8a05-468991b209a6,
+    det:5c223b99-477a-48cc-8781-ab101c9572d1, det:5d325d9f-e765-4990-a56f-18ff771416db,
+    det:631c1455-8ed4-4b32-8d11-326df9c4997e, det:67e10ff1-40b4-4925-9b74-da2a456ef22a,
+    det:72b290d4-4583-4be5-9caa-10181678da03, det:74c6c661-615a-46fd-815a-f06f5875792b,
+    det:7cb16e9c-33b5-4d64-a94e-c10f055ff040, det:820d4b89-350e-4289-918e-ad46303db417,
+    det:8a959985-ba90-48ad-87ec-9d5c1cf00d14, det:9d96abd0-9bc4-4e3f-8577-abfa4d99818b,
+    det:9f69909d-95b8-4cfa-9249-f011b1dd8549, det:a4441fbc-d069-4b1f-913c-3bb27d8356d3,
+    det:abe79fd8-a529-4ef9-8852-f827b798467a, det:abfae75e-f3b6-48ff-a71f-e2297b3016f5,
+    det:ac0af94f-6219-4193-b8b1-22ee435cd7db, det:ac8e42f8-fd6d-4dea-9458-335792daeac3,
+    det:b0123d4a-a5b8-4fb5-b95f-92fe5120c1b6, det:b2af3e15-face-4def-813f-50e0411e6f6e,
+    det:b3b4e984-19a5-42ce-b17c-5d12478f19f1, det:bf308c44-8a8e-4974-91db-3886e7a71e33,
+    det:bff4ef78-2af5-4c4a-977f-39f25d68658b, det:c04caf5e-fd3e-4794-95ee-13fc7eb0283f,
+    det:c495d4af-8a34-44c4-8576-fda180c529bb, det:c99dd992-f7d8-43bf-967d-a700b4f5541f,
+    det:d15e53d0-142e-4786-80cb-2b4740d117ba, det:d6403234-cc4e-4923-8d5e-1c091ff1210d,
+    det:e26fe549-d138-463b-8628-06ecb6a3b16a, det:e4b73f7f-8a7c-41dc-9ae6-1d0a580995db,
+    det:e6af8118-ed81-4061-93bc-7427f3e3db1b, det:e6f5510b-872d-42f5-9116-9faf1e2a6cf9,
+    det:e7c0c863-510a-4b07-b51a-9b95b448726a, det:eb888108-049f-433b-98a4-e1a2c06638c0,
+    det:fab1082a-2cad-4563-be9a-6a6aaaa4379d, det:fb855342-3a1d-4097-aa88-1739b4e2915b,
+    det:fef80955-5aab-431e-b0dc-076b4f1e0d02, det:ffcfde75-c5b6-463b-b3e9-4a69808e3f38;
   rdfs:label "develop efficient strategies for numerical calculation, recognise patterns, describe relationships and apply algebraic techniques and generalisation"@en-au .
+
+det:c1fa2396-ef19-40fb-9a70-bbaaf437fde4 a det:Outcome;
+  asn:altStatementNotation "504"@en-au;
+  rdfs:label "<p>gathers, organises and displays data</p>"@en-au .
+
+det:c3196b2b-55a2-4d3f-97c5-e3fbc5286696 a det:Outcome;
+  asn:altStatementNotation "357"@en-au;
+  rdfs:label "<p>measures, records, compares and estimates the masses of objects using uniform informal units</p>"@en-au .
+
+det:c495d4af-8a34-44c4-8576-fda180c529bb a det:Outcome;
+  asn:altStatementNotation "421"@en-au;
+  rdfs:label "<p>connects algebraic and graphical representations of simple non-linear relationships</p>"@en-au .
+
+det:c659e802-3f93-48c4-9148-bbe9c2eddf3c a det:Outcome;
+  asn:altStatementNotation "347"@en-au;
+  rdfs:label "<p>uses formulas to calculate the volumes of prisms and cylinders, and converts between units of volume</p>"@en-au .
+
+det:c8d1bdc6-8217-4ed8-93fc-3069976deaf8 a det:Outcome;
+  asn:altStatementNotation "506"@en-au;
+  rdfs:label "<p>recognises and uses the language of chance in a range of contexts</p>"@en-au .
+
+det:c97d4d0c-20c2-4785-b6dd-616c6265b179 a det:Outcome;
+  asn:altStatementNotation "374"@en-au;
+  rdfs:label "<p>reads and records time in one-minute intervals and converts between hours, minutes and seconds</p>"@en-au .
+
+det:c99dd992-f7d8-43bf-967d-a700b4f5541f a det:Outcome;
+  asn:altStatementNotation "482"@en-au;
+  rdfs:label "<p>recognises and matches coins and notes</p>"@en-au .
 
 det:c9be4edc-f527-4abe-ae46-57004edc4484 a det:ContentGroup;
   asn:altStatementNotation "648"@en-au;
   rdfs:label "Addition and Subtraction"@en-au .
 
+det:cb312e1c-21c1-42de-8960-84f4b8d43825 a det:Outcome;
+  asn:altStatementNotation "369"@en-au;
+  rdfs:label "<p>measures, records, compares and estimates areas using square centimetres and square metres</p>"@en-au .
+
 det:cc477866-8a01-4db8-aa26-2ef93c6096b9 a det:ContentGroup;
   asn:altStatementNotation "1022"@en-au;
   rdfs:label "Functions and Other Graphs #"@en-au .
+
+det:ccb62dd4-559e-41d3-a68c-b877d82f496d a det:Outcome;
+  asn:altStatementNotation "311"@en-au;
+  rdfs:label "<p>describes and calculates probabilities in multi-step chance experiments</p>"@en-au .
+
+det:ccc6bfdf-2b93-4c22-aea1-bd955cef5011 a det:Outcome;
+  asn:altStatementNotation "398"@en-au;
+  rdfs:label "<p>calculates the surface areas of right prisms, cylinders and related composite solids</p>"@en-au .
 
 det:cd049216-3bfe-47ac-9a63-ba076ee7c5f4 a det:Stage;
   asn:altStatementNotation "5"@en-au;
@@ -243,9 +908,84 @@ det:cd049216-3bfe-47ac-9a63-ba076ee7c5f4 a det:Stage;
     det:ff00b30b-d457-4e8b-a37e-4e82e2b22c8b;
   rdfs:label "Stage 4"@en-au .
 
+det:cd5607a2-d0da-4514-bd83-4209567ec95b a det:Outcome;
+  asn:altStatementNotation "489"@en-au;
+  rdfs:label "<p>recognises and relates time in a range of contexts</p>"@en-au .
+
+det:ce26e06b-1071-41a8-9166-1d39cb0da2e0 a det:Outcome;
+  asn:altStatementNotation "320"@en-au;
+  rdfs:label "<p>recognises and describes the element of chance in everyday events</p>"@en-au .
+
+det:cfc7fd33-a1fa-49c6-b256-51f1202d0b7b a det:Outcome;
+  asn:altStatementNotation "318"@en-au;
+  rdfs:label "<p>investigates the relationship between numerical variables using lines of best fit, and explores how data is used to inform decision-making processes</p>"@en-au .
+
+det:d15e53d0-142e-4786-80cb-2b4740d117ba a det:Outcome;
+  asn:altStatementNotation "297"@en-au;
+  rdfs:label "<p>counts to 30, and orders, reads and represents numbers in the range 0 to 20</p>"@en-au .
+
+det:d21c1a12-619f-4261-b095-5cb91ecb2881 a det:Outcome;
+  asn:altStatementNotation "329"@en-au;
+  rdfs:label "<p>communicates and connects mathematical ideas using appropriate terminology, diagrams and symbols</p>"@en-au .
+
+det:d23f8347-c87a-4e5c-9e00-249536830327 a det:Outcome;
+  asn:altStatementNotation "345"@en-au;
+  rdfs:label "<p>manipulates, sorts and represents three-dimensional objects and describes them using everyday language</p>"@en-au .
+
 det:d369d2ae-8069-4386-b6d6-5eae3450b1c0 a det:Objective;
   asn:altStatementNotation "17"@en-au;
+  det:outcome det:0764a517-cb13-4933-bda5-08e3b89accad, det:08f5c2a8-43cd-4b64-b78d-3f9136dc4a36,
+    det:0b10b681-1a33-4bb2-928e-5a0923ed9458, det:1251ec97-88ee-41df-ac75-f6a2afc4e8ab,
+    det:136769be-05c4-48b1-a9f7-3f94928f2dd6, det:1565b0d3-410e-4e64-9283-ba9937cc3d25,
+    det:18de15f4-4b9d-4767-93c2-1fa7fe73e60f, det:21fddc83-f23a-4e4f-bf72-9b752f029c17,
+    det:26599974-6055-4f8e-97f2-98f41e3c0870, det:2d4d520f-acce-4636-bf09-d4c51f1f107d,
+    det:3389a3f1-b09d-4ebf-9db6-4d5881d36c37, det:3554715e-e3c9-45fe-85ba-3b6a313701ce,
+    det:35da54f5-9862-4681-8dba-22998c71b435, det:3a99e3ae-3610-4158-90ee-ff8bf982ef90,
+    det:3ee1d7e0-830c-4844-8232-d3c725b8bf05, det:505d35ed-d4ae-4b1b-b049-376605af2e59,
+    det:520d5d2a-831c-494b-947c-6beb2743861f, det:52f4decc-6a1e-4aa6-9a9a-ac1901faf08b,
+    det:533b4499-4fbd-4975-9132-2231656de470, det:54304bc6-cf00-45e8-91c4-934db3c3e1a2,
+    det:55b40b22-dbb2-4f18-86f0-3c699c138d10, det:55c02408-6d61-42c5-8e7c-ad654d885183,
+    det:56ddcf27-a798-46bd-bc9b-06e0c2e785d8, det:5bc9f580-2d80-4f83-a475-3ea964656a5f,
+    det:5c3311b3-5832-4c58-bcc6-9fffcb05a55b, det:61d90531-7235-4a70-ba89-abc4843e44f9,
+    det:650b8233-7cf6-46dc-9a62-156b99ef065c, det:68a0d627-9322-461a-bedc-1d33423d8948,
+    det:6a6b48b0-ea9a-4b5b-b408-f4bea31c0f45, det:6c45e110-b8dc-4cec-b854-604b753cc457,
+    det:6e6a82c6-1d48-484d-81bf-b8e8ad0a8853, det:70d92c82-afce-4af1-a8ed-92ac3ebf498b,
+    det:76257ce8-d890-4ff8-8597-4d6aa4e61ce1, det:7b46407c-6863-48e5-bb1d-8ed950cc198f,
+    det:815876c3-c8b7-418d-afde-614802f74ff7, det:82392980-5686-48e1-b076-3d2b37ebe697,
+    det:8a9185e5-06c2-498e-bd3a-55c7857ce8b4, det:8d64d01c-8db1-402c-aa61-3cbf15b13e32,
+    det:9311b942-00b5-46db-9683-0b8ae0d71a2b, det:9516402e-4de7-44e5-a87a-7b9dc929bc0e,
+    det:9516e7bd-e7de-46ec-8417-3a7d6a709660, det:992de690-eb0e-4029-aa2e-a0dc52d29bc1,
+    det:9bfb6ae5-4a4c-428d-ba34-093e2bd1dc6c, det:9ca1c422-db6b-4a5d-8818-ad2de8bb007a,
+    det:9df2b2b2-1abd-4751-9e29-27d9dea15354, det:9f590889-3683-4b01-b734-19a8db49add1,
+    det:a4b707f7-837d-4f49-a713-08ea76b4897c, det:ab8de305-7447-40f1-8785-d957d6266ceb,
+    det:abae563c-e203-4b5e-b8ba-f5572c1ea6d2, det:abe682e5-2dae-4123-8755-28af38da6e00,
+    det:b399a302-30ce-42d2-8ccf-29c6c2971c9d, det:b3b63a92-ab8c-4cd5-946d-c1409a02bdfd,
+    det:bb6a5b31-52bc-45b3-bca7-7d54fc5c1b3f, det:bd26ae19-4d87-450a-b790-d9337e215136,
+    det:c17205c3-2b89-4a39-9158-0726cd253696, det:c3196b2b-55a2-4d3f-97c5-e3fbc5286696,
+    det:c659e802-3f93-48c4-9148-bbe9c2eddf3c, det:c97d4d0c-20c2-4785-b6dd-616c6265b179,
+    det:cb312e1c-21c1-42de-8960-84f4b8d43825, det:ccc6bfdf-2b93-4c22-aea1-bd955cef5011,
+    det:cd5607a2-d0da-4514-bd83-4209567ec95b, det:d23f8347-c87a-4e5c-9e00-249536830327,
+    det:d81e1ea6-0008-4d09-8bab-4650d721c771, det:db5d54be-7fc3-4123-b79f-f1b7aa6fd293,
+    det:dbd9abff-06f1-46b8-b20f-09881f7617b5, det:e15d0690-9256-44cb-b560-5c53cb001de3,
+    det:edcc5c44-6e3b-4d7a-9c46-25b20c12575a, det:f034fff6-a7ae-4504-a695-5e2f01216f3b,
+    det:f51d1256-b987-4101-a7a1-8815f5806a76;
   rdfs:label "identify, visualise and quantify measures and the attributes of shapes and objects, and explore measurement concepts and geometric relationships, applying formulas, strategies and geometric reasoning in the solution of problems"@en-au .
+
+det:d36a9188-5f97-43b1-ba4f-9c28221bbaac a det:Outcome;
+  asn:altStatementNotation "472"@en-au;
+  rdfs:label "<p>responds to and uses mathematical language to demonstrate understanding</p>"@en-au .
+
+det:d442148d-13da-4d38-b373-c1a846c8e053 a det:Outcome;
+  asn:altStatementNotation "503"@en-au;
+  rdfs:label "<p>recognises data displayed in a variety of formats</p>"@en-au .
+
+det:d6403234-cc4e-4923-8d5e-1c091ff1210d a det:Outcome;
+  asn:altStatementNotation "409"@en-au;
+  rdfs:label "<p>applies index laws to operate with algebraic expressions involving integer indices</p>"@en-au .
+
+det:d81e1ea6-0008-4d09-8bab-4650d721c771 a det:Outcome;
+  asn:altStatementNotation "403"@en-au;
+  rdfs:label "<p>applies trigonometry to solve problems, including problems involving bearings</p>"@en-au .
 
 det:d9d15e05-fffd-455c-9c6b-76d110d09d11 a det:ContentGroup;
   asn:altStatementNotation "649"@en-au;
@@ -259,13 +999,49 @@ det:da69a540-ba67-4911-ae4a-0f9b9695cb8f a det:ContentGroup;
   asn:altStatementNotation "789"@en-au;
   rdfs:label "Indices"@en-au .
 
+det:db5d54be-7fc3-4123-b79f-f1b7aa6fd293 a det:Outcome;
+  asn:altStatementNotation "498"@en-au;
+  rdfs:label "<p>recognises, matches and sorts three-dimensional objects and/or two-dimensional shapes</p>"@en-au .
+
 det:db6e99d2-29cb-468b-b517-4ca7df92872b a det:ContentGroup;
   asn:altStatementNotation "746"@en-au;
   rdfs:label "Probability"@en-au .
 
+det:dbd9abff-06f1-46b8-b20f-09881f7617b5 a det:Outcome;
+  asn:altStatementNotation "396"@en-au;
+  rdfs:label "<p>describes and applies the properties of similar figures and scale drawings</p>"@en-au .
+
+det:e15d0690-9256-44cb-b560-5c53cb001de3 a det:Outcome;
+  asn:altStatementNotation "393"@en-au;
+  rdfs:label "<p>identifies three-dimensional objects, including prisms and pyramids, on the basis of their properties, and visualises, sketches and constructs them given drawings of different views</p>"@en-au .
+
+det:e26fe549-d138-463b-8628-06ecb6a3b16a a det:Outcome;
+  asn:altStatementNotation "391"@en-au;
+  rdfs:label "<p>solves financial problems involving purchasing goods</p>"@en-au .
+
 det:e2f0cc6f-f5f4-4e3e-9fee-6902ea96ac28 a det:ContentGroup;
   asn:altStatementNotation "1016"@en-au;
   rdfs:label "Surds and Indices §"@en-au .
+
+det:e33a6927-af12-48a1-8f2e-924935162b4c a det:Outcome;
+  asn:altStatementNotation "288"@en-au;
+  rdfs:label "<p>uses appropriate terminology to describe, and symbols to represent, mathematical ideas</p>"@en-au .
+
+det:e4b73f7f-8a7c-41dc-9ae6-1d0a580995db a det:Outcome;
+  asn:altStatementNotation "476"@en-au;
+  rdfs:label "<p>counts in familiar contexts</p>"@en-au .
+
+det:e6af8118-ed81-4061-93bc-7427f3e3db1b a det:Outcome;
+  asn:altStatementNotation "477"@en-au;
+  rdfs:label "<p>compares and orders numbers</p>"@en-au .
+
+det:e6be7542-31bd-4427-bc7e-925caa60cc22 a det:Outcome;
+  asn:altStatementNotation "295"@en-au;
+  rdfs:label "<p>analyses single sets of data using measures of location, and range</p>"@en-au .
+
+det:e6f5510b-872d-42f5-9116-9faf1e2a6cf9 a det:Outcome;
+  asn:altStatementNotation "323"@en-au;
+  rdfs:label "<p>represents, models and compares commonly used fractions and decimals</p>"@en-au .
 
 det:e709036c-8f8a-40ac-a6b6-b02a42d8c16e a det:Stage;
   asn:altStatementNotation "7"@en-au;
@@ -276,6 +1052,14 @@ det:e709036c-8f8a-40ac-a6b6-b02a42d8c16e a det:Stage;
     det:da69a540-ba67-4911-ae4a-0f9b9695cb8f, det:db6e99d2-29cb-468b-b517-4ca7df92872b,
     det:edc79d7a-4c07-4de1-88d6-8c4507bc929f;
   rdfs:label "Stage 5.1"@en-au .
+
+det:e7c0c863-510a-4b07-b51a-9b95b448726a a det:Outcome;
+  asn:altStatementNotation "378"@en-au;
+  rdfs:label "<p>draws, interprets and analyses graphs of physical phenomena</p>"@en-au .
+
+det:e89832f2-87cb-474c-bdbe-8ab32b92e3d0 a det:Outcome;
+  asn:altStatementNotation "360"@en-au;
+  rdfs:label "<p>constructs arguments to prove and justify results</p>"@en-au .
 
 det:e9a5f0a5-9551-4e3b-a820-0c249f151fee a det:Stage;
   asn:altStatementNotation "9"@en-au;
@@ -289,13 +1073,45 @@ det:e9a5f0a5-9551-4e3b-a820-0c249f151fee a det:Stage;
     det:e2f0cc6f-f5f4-4e3e-9fee-6902ea96ac28, det:fd872cb4-2219-4496-9636-d10c01e01739;
   rdfs:label "Stage 5.3"@en-au .
 
+det:eb888108-049f-433b-98a4-e1a2c06638c0 a det:Outcome;
+  asn:altStatementNotation "420"@en-au;
+  rdfs:label "<p>uses algebraic techniques to solve simple linear and quadratic equations</p>"@en-au .
+
+det:ebeb01ab-13c4-419e-9ac9-3001059a0eb2 a det:Outcome;
+  asn:altStatementNotation "292"@en-au;
+  rdfs:label "<p>describes and represents mathematical situations in a variety of ways using mathematical terminology and some conventions</p>"@en-au .
+
 det:edc79d7a-4c07-4de1-88d6-8c4507bc929f a det:ContentGroup;
   asn:altStatementNotation "745"@en-au;
   rdfs:label "Single Variable Data Analysis"@en-au .
 
+det:edcc5c44-6e3b-4d7a-9c46-25b20c12575a a det:Outcome;
+  asn:altStatementNotation "399"@en-au;
+  rdfs:label "<p>locates and describes position on maps using a grid-reference system</p>"@en-au .
+
+det:f034fff6-a7ae-4504-a695-5e2f01216f3b a det:Outcome;
+  asn:altStatementNotation "502"@en-au;
+  rdfs:label "<p>uses maps and plans in a range of contexts</p>"@en-au .
+
+det:f51d1256-b987-4101-a7a1-8815f5806a76 a det:Outcome;
+  asn:altStatementNotation "339"@en-au;
+  rdfs:label "<p>calculates the perimeters of plane shapes and the circumferences of circles</p>"@en-au .
+
 det:f92085ec-edfe-4b13-bcea-8f4316693aae a det:ContentGroup;
   asn:altStatementNotation "756"@en-au;
   rdfs:label "Time"@en-au .
+
+det:fa7d27ce-d373-4c32-95f6-7ea39ab7aa59 a det:Outcome;
+  asn:altStatementNotation "362"@en-au;
+  rdfs:label "<p>uses deductive reasoning in presenting arguments and formal proofs</p>"@en-au .
+
+det:fab1082a-2cad-4563-be9a-6a6aaaa4379d a det:Outcome;
+  asn:altStatementNotation "325"@en-au;
+  rdfs:label "<p>generalises properties of odd and even numbers, generates number patterns, and completes simple number sentences by calculating missing values</p>"@en-au .
+
+det:fb855342-3a1d-4097-aa88-1739b4e2915b a det:Outcome;
+  asn:altStatementNotation "371"@en-au;
+  rdfs:label "<p>solves financial problems involving earning, spending and investing money</p>"@en-au .
 
 det:fce69cc9-d01a-463f-9ab9-eb685f6ca1df a det:KLA;
   det:syllabus det:bb78bb96-6c33-449a-8183-5ce84cc9d616;
@@ -305,6 +1121,14 @@ det:fd872cb4-2219-4496-9636-d10c01e01739 a det:ContentGroup;
   asn:altStatementNotation "1017"@en-au;
   rdfs:label "Equations §"@en-au .
 
+det:fef80955-5aab-431e-b0dc-076b4f1e0d02 a det:Outcome;
+  asn:altStatementNotation "300"@en-au;
+  rdfs:label "<p>groups, shares and counts collections of objects, describes using everyday language, and records using informal methods</p>"@en-au .
+
 det:ff00b30b-d457-4e8b-a37e-4e82e2b22c8b a det:ContentGroup;
   asn:altStatementNotation "1149"@en-au;
   rdfs:label "Algebraic Techniques"@en-au .
+
+det:ffcfde75-c5b6-463b-b3e9-4a69808e3f38 a det:Outcome;
+  asn:altStatementNotation "417"@en-au;
+  rdfs:label "<p>operates with positive-integer and zero indices of numerical bases</p>"@en-au .
